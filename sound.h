@@ -11,7 +11,7 @@ using std::string;
 #if defined(__ANDROID__)
 #include <SDL_mixer.h>
 #elif defined(__linux)
-#include <SDL2/SDL_mixer.h>
+#include <SDL/SDL_mixer.h>
 #else
 #include <SDL/SDL_mixer.hh>
 #endif
