@@ -1,0 +1,19 @@
+Short:        Gigalomania Source
+Author:       Mark Harman
+Uploader:     mark.harman.apps@gmail.com (Mark Harman)
+Type:         game/strat
+Version:      1.0
+Architecture: generic
+
+Source for Gigalomania.
+
+See gigalomania_source.txt in the archive for more details on compiling.
+
+Also see the either the included readme.html, or the homepage:
+http://gigalomania.sourceforge.net/ .
+
+Other links:
+Launchpad page: https://launchpad.net/gigalomania/
+Sourceforge page: https://sourceforge.net/projects/gigalomania/
+
+Mark Harman 9 January 2018

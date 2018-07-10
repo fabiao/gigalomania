@@ -1,0 +1,28 @@
+Short:        RTS Mega-Lo-Mania-like god game
+Author:       Mark Harman
+Uploader:     mark.harman.apps@gmail.com (Mark Harman)
+Type:         game/strat
+Version:      1.0.
+Architecture: i386-aros
+
+Gigalomania is an Open Source 2D Real Time Strategy (RTS)
+Mega-Lo-Mania-like god game. Research and develop new technology with which
+to conquer your enemies, from rocks and sticks to nuclear weapons and
+spaceships. Advance through ten different ages, from the stone age to the
+future. There are 28 different maps to play through. Also available for
+Windows, Linux, OS X, AmigaOS 4, MorphOS, Android, Nokia Symbian, Maemo,
+and Meego.
+
+This has been tested using Icaros 2.2.1. Note that Gigalomania requires a
+large stack - it seems to work okay with the AROS Shell default of 1024000
+bytes.
+
+For instructions, source code and other details, please see either the
+included readme.html, or the homepage:
+http://gigalomania.sourceforge.net/
+
+Other links:
+Launchpad page: https://launchpad.net/gigalomania/
+Sourceforge page: https://sourceforge.net/projects/gigalomania/
+
+Mark Harman 9 January 2018

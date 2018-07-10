@@ -1,0 +1,428 @@
+<?xml version="1.0" ?>
+<savegame major="0" minor="28" savegame_version="1">
+<global game_type="2" difficulty_level="0" human_player="0" n_men_store="0" n_player_suspended="0" start_epoch="0" selected_island="0" />
+<time real_time="34851" game_time="5227" />
+<completed_island island_id="0" complete="0"/>
+<completed_island island_id="1" complete="0"/>
+<completed_island island_id="2" complete="0"/>
+<playing_gamestate>
+<tutorial name="intro" current_card_name="1" />
+<current_sector x="1" y="2" />
+<game_panel page="0" />
+<player_asking_alliance player_id="-1" />
+<player player_id="0" dead="0" n_births="0" n_deaths="0" n_men_for_this_island="20" n_suspended="0" alliance_last_asked_human="-1" >
+</player>
+<player player_id="2" dead="0" n_births="0" n_deaths="0" n_men_for_this_island="20" n_suspended="0" alliance_last_asked_human="-1" >
+</player>
+<player_alliances>
+<player_alliance player_id_i="0" player_id_j="1" alliances="0" alliance_last_asked="-1" />
+<player_alliance player_id_i="0" player_id_j="2" alliances="0" alliance_last_asked="-1" />
+<player_alliance player_id_i="0" player_id_j="3" alliances="0" alliance_last_asked="-1" />
+<player_alliance player_id_i="1" player_id_j="2" alliances="0" alliance_last_asked="-1" />
+<player_alliance player_id_i="1" player_id_j="3" alliances="0" alliance_last_asked="-1" />
+<player_alliance player_id_i="2" player_id_j="3" alliances="0" alliance_last_asked="-1" />
+</player_alliances>
+<n_deaths player_id="0" epoch="0" n="0" />
+<n_deaths player_id="0" epoch="1" n="0" />
+<n_deaths player_id="0" epoch="2" n="0" />
+<n_deaths player_id="0" epoch="3" n="0" />
+<n_deaths player_id="0" epoch="4" n="0" />
+<n_deaths player_id="0" epoch="5" n="0" />
+<n_deaths player_id="0" epoch="6" n="0" />
+<n_deaths player_id="0" epoch="7" n="0" />
+<n_deaths player_id="0" epoch="8" n="0" />
+<n_deaths player_id="0" epoch="9" n="0" />
+<n_deaths player_id="0" epoch="10" n="0" />
+<n_deaths player_id="1" epoch="0" n="0" />
+<n_deaths player_id="1" epoch="1" n="0" />
+<n_deaths player_id="1" epoch="2" n="0" />
+<n_deaths player_id="1" epoch="3" n="0" />
+<n_deaths player_id="1" epoch="4" n="0" />
+<n_deaths player_id="1" epoch="5" n="0" />
+<n_deaths player_id="1" epoch="6" n="0" />
+<n_deaths player_id="1" epoch="7" n="0" />
+<n_deaths player_id="1" epoch="8" n="0" />
+<n_deaths player_id="1" epoch="9" n="0" />
+<n_deaths player_id="1" epoch="10" n="0" />
+<n_deaths player_id="2" epoch="0" n="0" />
+<n_deaths player_id="2" epoch="1" n="0" />
+<n_deaths player_id="2" epoch="2" n="0" />
+<n_deaths player_id="2" epoch="3" n="0" />
+<n_deaths player_id="2" epoch="4" n="0" />
+<n_deaths player_id="2" epoch="5" n="0" />
+<n_deaths player_id="2" epoch="6" n="0" />
+<n_deaths player_id="2" epoch="7" n="0" />
+<n_deaths player_id="2" epoch="8" n="0" />
+<n_deaths player_id="2" epoch="9" n="0" />
+<n_deaths player_id="2" epoch="10" n="0" />
+<n_deaths player_id="3" epoch="0" n="0" />
+<n_deaths player_id="3" epoch="1" n="0" />
+<n_deaths player_id="3" epoch="2" n="0" />
+<n_deaths player_id="3" epoch="3" n="0" />
+<n_deaths player_id="3" epoch="4" n="0" />
+<n_deaths player_id="3" epoch="5" n="0" />
+<n_deaths player_id="3" epoch="6" n="0" />
+<n_deaths player_id="3" epoch="7" n="0" />
+<n_deaths player_id="3" epoch="8" n="0" />
+<n_deaths player_id="3" epoch="9" n="0" />
+<n_deaths player_id="3" epoch="10" n="0" />
+<sector x="1" y="2" epoch="0" player="0" is_shutdown="0" nuked="0" nuke_by_player="-1" nuke_time="-1" nuke_defence_animation="0" nuke_defence_time="-1" nuke_defence_x="0" nuke_defence_y="0" population="20" n_designers="0" n_workers="0" n_famount="0" researched="0" researched_lasttime="-1" manufactured="0" manufactured_lasttime="-1" growth_lasttime="4611" mined_lasttime="-1" built_lasttime="5211" >
+<n_miners element_id="0" n="0"/>
+<elements element_id="0" n="0"/>
+<elementstocks element_id="0" n="0"/>
+<partial_elementstocks element_id="0" n="0"/>
+<n_miners element_id="1" n="0"/>
+<elements element_id="1" n="156"/>
+<elementstocks element_id="1" n="44"/>
+<partial_elementstocks element_id="1" n="1000"/>
+<n_miners element_id="2" n="0"/>
+<elements element_id="2" n="0"/>
+<elementstocks element_id="2" n="0"/>
+<partial_elementstocks element_id="2" n="0"/>
+<n_miners element_id="3" n="0"/>
+<elements element_id="3" n="156"/>
+<elementstocks element_id="3" n="44"/>
+<partial_elementstocks element_id="3" n="1000"/>
+<n_miners element_id="4" n="0"/>
+<elements element_id="4" n="0"/>
+<elementstocks element_id="4" n="0"/>
+<partial_elementstocks element_id="4" n="0"/>
+<n_miners element_id="5" n="0"/>
+<elements element_id="5" n="0"/>
+<elementstocks element_id="5" n="0"/>
+<partial_elementstocks element_id="5" n="0"/>
+<n_miners element_id="6" n="0"/>
+<elements element_id="6" n="0"/>
+<elementstocks element_id="6" n="0"/>
+<partial_elementstocks element_id="6" n="0"/>
+<n_miners element_id="7" n="0"/>
+<elements element_id="7" n="150"/>
+<elementstocks element_id="7" n="0"/>
+<partial_elementstocks element_id="7" n="0"/>
+<n_miners element_id="8" n="0"/>
+<elements element_id="8" n="0"/>
+<elementstocks element_id="8" n="0"/>
+<partial_elementstocks element_id="8" n="0"/>
+<n_miners element_id="9" n="0">
+<elements element_id="9" n="100"/>
+<elementstocks element_id="9" n="0"/>
+<partial_elementstocks element_id="9" n="0"/>
+<n_miners element_id="10" n="0"/>
+<elements element_id="10" n="0"/>
+<elementstocks element_id="10" n="0"/>
+<partial_elementstocks element_id="10" n="0"/>
+<n_miners element_id="11" n="0"/>
+<elements element_id="11" n="0"/>
+<elementstocks element_id="11" n="0"/>
+<partial_elementstocks element_id="11" n="0"/>
+<n_miners element_id="12" n="0"/>
+<elements element_id="12" n="0"/>
+<elementstocks element_id="12" n="0"/>
+<partial_elementstocks element_id="12" n="0"/>
+<n_miners element_id="13" n="0"/>
+<elements element_id="13" n="0"/>
+<elementstocks element_id="13" n="0"/>
+<partial_elementstocks element_id="13" n="0"/>
+<n_miners element_id="14" n="0"/>
+<elements element_id="14" n="0"/>
+<elementstocks element_id="14" n="0"/>
+<partial_elementstocks element_id="14" n="0"/>
+<n_miners element_id="15" n="0"/>
+<elements element_id="15" n="0"/>
+<elementstocks element_id="15" n="0"/>
+<partial_elementstocks element_id="15" n="0"/>
+<n_miners element_id="16" n="0"/>
+<elements element_id="16" n="0"/>
+<elementstocks element_id="16" n="0"/>
+<partial_elementstocks element_id="16" n="0"/>
+<n_miners element_id="17" n="0"/>
+<elements element_id="17" n="0"/>
+<elementstocks element_id="17" n="0"/>
+<partial_elementstocks element_id="17" n="0"/>
+<n_miners element_id="18" n="0"/>
+<elements element_id="18" n="0"/>
+<elementstocks element_id="18" n="0"/>
+<partial_elementstocks element_id="18" n="0"/>
+<n_miners element_id="19" n="0"/>
+<elements element_id="19" n="0"/>
+<elementstocks element_id="19" n="0"/>
+<partial_elementstocks element_id="19" n="0"/>
+<n_builders building_id="0" n="0"/>
+<n_builders building_id="1" n="0"/>
+<n_builders building_id="2" n="0"/>
+<n_builders building_id="3" n="0"/>
+<built_towers player_id="0" n="0"/>
+<built_towers player_id="1" n="0"/>
+<built_towers player_id="2" n="0"/>
+<built_towers player_id="3" n="0"/>
+<built building_id="0" n="0"/>
+<built building_id="1" n="0"/>
+<built building_id="2" n="0"/>
+<built building_id="3" n="0"/>
+<building building_id="0" health="150" >
+<turret_soldier turret_id="0" epoch="-1"/>
+<turret_soldier turret_id="1" epoch="-1"/>
+<turret_soldier turret_id="2" epoch="-1"/>
+<turret_soldier turret_id="3" epoch="-1"/>
+</building>
+<stored_army>
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</stored_army>
+<army player_id="0">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="1">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="2">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="3">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<stored_defenders epoch="0" n="0"/>
+<stored_defenders epoch="1" n="0"/>
+<stored_defenders epoch="2" n="0"/>
+<stored_defenders epoch="3" n="0"/>
+<stored_defenders epoch="4" n="0"/>
+<stored_defenders epoch="5" n="0"/>
+<stored_defenders epoch="6" n="0"/>
+<stored_defenders epoch="7" n="0"/>
+<stored_defenders epoch="8" n="0"/>
+<stored_defenders epoch="9" n="0"/>
+<stored_shields relative_epoch="0" n="0"/>
+<stored_shields relative_epoch="1" n="0"/>
+<stored_shields relative_epoch="2" n="0"/>
+<stored_shields relative_epoch="3" n="0"/>
+</sector>
+<sector x="2" y="2" epoch="0" player="2" is_shutdown="0" nuked="0" nuke_by_player="-1" nuke_time="-1" nuke_defence_animation="0" nuke_defence_time="-1" nuke_defence_x="0" nuke_defence_y="0" population="20" n_designers="0" n_workers="0" n_famount="0" researched="0" researched_lasttime="-1" manufactured="0" manufactured_lasttime="-1" growth_lasttime="4611" mined_lasttime="-1" built_lasttime="5211" >
+<n_miners element_id="0" n="0"/>
+<elements element_id="0" n="106"/>
+<elementstocks element_id="0" n="44"/>
+<partial_elementstocks element_id="0" n="1000"/>
+<n_miners element_id="1" n="0"/>
+<elements element_id="1" n="0"/>
+<elementstocks element_id="1" n="0"/>
+<partial_elementstocks element_id="1" n="0"/>
+<n_miners element_id="2" n="0"/>
+<elements element_id="2" n="0"/>
+<elementstocks element_id="2" n="0"/>
+<partial_elementstocks element_id="2" n="0"/>
+<n_miners element_id="3" n="0"/>
+<elements element_id="3" n="0"/>
+<elementstocks element_id="3" n="0"/>
+<partial_elementstocks element_id="3" n="0"/>
+<n_miners element_id="4" n="0"/>
+<elements element_id="4" n="200"/>
+<elementstocks element_id="4" n="0"/>
+<partial_elementstocks element_id="4" n="0"/>
+<n_miners element_id="5" n="0"/>
+<elements element_id="5" n="0"/>
+<elementstocks element_id="5" n="0"/>
+<partial_elementstocks element_id="5" n="0"/>
+<n_miners element_id="6" n="0"/>
+<elements element_id="6" n="150"/>
+<elementstocks element_id="6" n="0"/>
+<partial_elementstocks element_id="6" n="0"/>
+<n_miners element_id="7" n="0"/>
+<elements element_id="7" n="0"/>
+<elementstocks element_id="7" n="0"/>
+<partial_elementstocks element_id="7" n="0"/>
+<n_miners element_id="8" n="0"/>
+<elements element_id="8" n="0"/>
+<elementstocks element_id="8" n="0"/>
+<partial_elementstocks element_id="8" n="0"/>
+<n_miners element_id="9" n="0"/>
+<elements element_id="9" n="0"/>
+<elementstocks element_id="9" n="0"/>
+<partial_elementstocks element_id="9" n="0"/>
+<n_miners element_id="10" n="0"/>
+<elements element_id="10" n="0"/>
+<elementstocks element_id="10" n="0"/>
+<partial_elementstocks element_id="10" n="0"/>
+<n_miners element_id="11" n="0"/>
+<elements element_id="11" n="0"/>
+<elementstocks element_id="11" n="0"/>
+<partial_elementstocks element_id="11" n="0"/>
+<n_miners element_id="12" n="0"/>
+<elements element_id="12" n="100"/>
+<elementstocks element_id="12" n="0"/>
+<partial_elementstocks element_id="12" n="0"/>
+<n_miners element_id="13" n="0"/>
+<elements element_id="13" n="0"/>
+<elementstocks element_id="13" n="0"/>
+<partial_elementstocks element_id="13" n="0"/>
+<n_miners element_id="14" n="0"/>
+<elements element_id="14" n="0"/>
+<elementstocks element_id="14" n="0"/>
+<partial_elementstocks element_id="14" n="0"/>
+<n_miners element_id="15" n="0"/>
+<elements element_id="15" n="0"/>
+<elementstocks element_id="15" n="0"/>
+<partial_elementstocks element_id="15" n="0"/>
+<n_miners element_id="16" n="0"/>
+<elements element_id="16" n="0"/>
+<elementstocks element_id="16" n="0"/>
+<partial_elementstocks element_id="16" n="0"/>
+<n_miners element_id="17" n="0"/>
+<elements element_id="17" n="0"/>
+<elementstocks element_id="17" n="0"/>
+<partial_elementstocks element_id="17" n="0"/>
+<n_miners element_id="18" n="0"/>
+<elements element_id="18" n="0"/>
+<elementstocks element_id="18" n="0"/>
+<partial_elementstocks element_id="18" n="0"/>
+<n_miners element_id="19" n="0"/>
+<elements element_id="19" n="0"/>
+<elementstocks element_id="19" n="0"/>
+<partial_elementstocks element_id="19" n="0"/>
+<n_builders building_id="0" n="0"/>
+<n_builders building_id="1" n="0"/>
+<n_builders building_id="2" n="0"/>
+<n_builders building_id="3" n="0"/>
+<built_towers player_id="0" n="0"/>
+<built_towers player_id="1" n="0"/>
+<built_towers player_id="2" n="0"/>
+<built_towers player_id="3" n="0"/>
+<built building_id="0" n="0"/>
+<built building_id="1" n="0"/>
+<built building_id="2" n="0"/>
+<built building_id="3" n="0"/>
+<building building_id="0" health="150" >
+<turret_soldier turret_id="0" epoch="-1"/>
+<turret_soldier turret_id="1" epoch="-1"/>
+<turret_soldier turret_id="2" epoch="-1"/>
+<turret_soldier turret_id="3" epoch="-1"/>
+</building>
+<stored_army>
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</stored_army>
+<army player_id="0">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="1">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="2">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<army player_id="3">
+<soldiers epoch="0" n="0"/>
+<soldiers epoch="1" n="0"/>
+<soldiers epoch="2" n="0"/>
+<soldiers epoch="3" n="0"/>
+<soldiers epoch="4" n="0"/>
+<soldiers epoch="5" n="0"/>
+<soldiers epoch="6" n="0"/>
+<soldiers epoch="7" n="0"/>
+<soldiers epoch="8" n="0"/>
+<soldiers epoch="9" n="0"/>
+<soldiers epoch="10" n="0"/>
+</army>
+<stored_defenders epoch="0" n="0"/>
+<stored_defenders epoch="1" n="0"/>
+<stored_defenders epoch="2" n="0"/>
+<stored_defenders epoch="3" n="0"/>
+<stored_defenders epoch="4" n="0"/>
+<stored_defenders epoch="5" n="0"/>
+<stored_defenders epoch="6" n="0"/>
+<stored_defenders epoch="7" n="0"/>
+<stored_defenders epoch="8" n="0"/>
+<stored_defenders epoch="9" n="0"/>
+<stored_shields relative_epoch="0" n="0"/>
+<stored_shields relative_epoch="1" n="0"/>
+<stored_shields relative_epoch="2" n="0"/>
+<stored_shields relative_epoch="3" n="0"/>
+</sector>
+</playing_gamestate>
+</savegame>
