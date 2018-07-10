@@ -13,7 +13,7 @@ using std::string;
 #elif defined(__linux)
 #include <SDL/SDL_mixer.h>
 #else
-#include <SDL/SDL_mixer.hh>
+#include <SDL/SDL_mixer.h>
 #endif
 
 bool initSound();
