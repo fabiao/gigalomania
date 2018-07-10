@@ -3636,7 +3636,7 @@ void Game::placeTower() {
 }
 
 //bool quit = false;
-bool debugwindow = false;
+bool debugwindow = true;
 
 void Game::requestQuit(bool force_quit) {
     if( !state_changed ) {
