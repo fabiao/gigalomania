@@ -2900,8 +2900,8 @@ void Game::getDesktopResolution(int *user_width, int *user_height) const {
 
 #if SDL_MAJOR_VERSION == 1
 		const SDL_VideoInfo *videoInfo = SDL_GetVideoInfo();
-		*user_width = videoInfo->current_w;
-		*user_height = videoInfo->current_h;
+		*user_width = videoInfo->current_w > 0 ? videoInfo->current_w : 640;
+		*user_height = videoInfo->current_h > 0 ? videoInfo->current_h : 480;
 		LOG("desktop is %d x %d\n", *user_width, *user_height);
 #else
 		SDL_DisplayMode displayMode;
